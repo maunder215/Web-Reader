@@ -7,7 +7,9 @@ An easier way to read chapterized txt files.
 - Adjustable font size and line spacing.
 - Configurable autoscrolling.
 - Adjustable library path.
-- Dark Mode
+- Dark Mode.
+- (PLANNED) Realtime narration generation via TTS (i.e. OpenAI TTS, Piper-TTS, Kokoro TTS).
+- (PLANNED) Autoscrolling timed with the generated narration.
 
 # File structure
     Base folder
